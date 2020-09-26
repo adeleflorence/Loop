@@ -1,7 +1,7 @@
 github "LoopKit/LoopKit" "dev"
-github "LoopKit/CGMBLEKit" "dev"
+github "adeleflorence/CGMBLEKit" "master"
 github "i-schuetz/SwiftCharts" == 0.6.5
-github "LoopKit/dexcom-share-client-swift" "dev"
-github "LoopKit/G4ShareSpy" "dev"
+github "adeleflorence/dexcom-share-client-swift" "master"
+github "adeleflorence/G4ShareSpy" "master"
 github "ps2/rileylink_ios" "dev"
 github "LoopKit/Amplitude-iOS" "decreepify"
